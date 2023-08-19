@@ -3,7 +3,7 @@
 Google Identity Services Demo
 
 ## Tasks:
-1. Set-up the NodeJS and ExpressJS Back-End
+1. Set-up the NodeJS and ExpressJS Back-End ✅
 2. Set-up the React Front-End
 3. Connect MongoDB Database
 4. Create Unique Data-Nonce and persist it within the request
